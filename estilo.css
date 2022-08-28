@@ -1,0 +1,33 @@
+
+.box{
+
+height: 300px;
+max-width: 630px;
+background-color: rgb(214, 211, 192);
+ display: grid;
+ grid-template-columns: 220px 380px ;
+ height: 100%; 
+ background-color: #d6d3c0; 
+ margin-left: 0;
+ border: solid #492E25 6px;
+ border-radius: 12px;
+}
+.ima{
+    height: 300px;
+    width: 250px;
+}
+.inner{
+    padding-left: 50px;
+
+}
+h1{font-family: 'DynaPuff', cursive;
+    padding: 10px;
+    padding-top: 10px;
+    height: 20px;
+    width:130px
+}
+.p{font-family: 'DynaPuff', cursive;
+    text-size-adjust: 100%;
+    padding-top:20%;
+    padding-right: 20px;
+}
